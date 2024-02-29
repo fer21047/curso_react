@@ -6,7 +6,7 @@ import Typography from "@mui/material/Typography";
 import { Button, CardActionArea, CardActions } from "@mui/material";
 import Avatar from "@mui/material/Avatar";
 import Stack from "@mui/material/Stack";
-import data from "../data/employees 2.json";
+import data from "../data/employees 1.json";
 import Grid from "@mui/material/Grid";
 
 const Home = () => {
